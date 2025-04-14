@@ -1,4 +1,3 @@
-package shubhangijava;
 
 import java.util.Scanner;
 
